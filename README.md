@@ -109,6 +109,9 @@ The design was simulated using Xilinx Vivado (Behavioral Simulation).
 
 ---
 
+##Simulation Output
+
+![Waveform](sim_screenshots/waveform.png)
 👨‍💻 Author
 
 Subhabrata Das
